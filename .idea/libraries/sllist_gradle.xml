@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sllist-gradle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lectures/L8/sllist-gradle.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
